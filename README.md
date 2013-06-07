@@ -1,4 +1,4 @@
 snoxd-koserver-db
 =================
 
-Database for the snoxd-koserver project 
+Fresh database schema for the snoxd-koserver project 
